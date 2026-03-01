@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/playbook/","pinned":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/playbook/","pinned":true,"tags":["gardenEntry"],"noteIcon":"🍃"}
 ---
 
 

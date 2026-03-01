@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/prueba/"}
+{"dg-publish":true,"permalink":"/home/prueba/","noteIcon":""}
 ---
 
   # Hola mundo 🌱

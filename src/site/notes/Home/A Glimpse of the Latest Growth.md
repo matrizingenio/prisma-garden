@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/a-glimpse-of-the-latest-growth/","pinned":true}
+{"dg-publish":true,"permalink":"/home/a-glimpse-of-the-latest-growth/","pinned":true,"noteIcon":""}
 ---
 
 
